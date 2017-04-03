@@ -46,9 +46,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BigBucket.cs" />
+     <Compile Include="Assets\Scripts\Block.cs" />
+     <Compile Include="Assets\Scripts\Bucket.cs" />
      <Compile Include="Assets\Scripts\ClickSound.cs" />
+     <Compile Include="Assets\Scripts\Gamer.cs" />
      <Compile Include="Assets\Scripts\ST_PuzzleDisplay.cs" />
      <Compile Include="Assets\Scripts\ST_PuzzleTile.cs" />
+     <Compile Include="Assets\Scripts\Wall.cs" />
      <Compile Include="Assets\Scripts\toNextStoryPage.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
