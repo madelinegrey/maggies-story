@@ -10,7 +10,6 @@
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll'
--r:'Assets/Yarn Spinner/Code/YarnSpinner.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll'
 -define:UNITY_5_3_OR_NEWER
 -define:UNITY_5_4_OR_NEWER
@@ -77,18 +76,11 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
+'Assets/AutoType.cs'
+'Assets/Scripts/ClickSound.cs'
 'Assets/Scripts/ST_PuzzleDisplay.cs'
 'Assets/Scripts/ST_PuzzleTile.cs'
-'Assets/Scripts/dialogueUI.cs'
 'Assets/Scripts/toNextStoryPage.cs'
-'Assets/Yarn Spinner/Code/DialogueRunner.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/CameraFollow.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/ExampleDialogueUI.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/ExampleVariableStorage.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/MobileOnly.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/NPC.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/PlayerCharacter.cs'
-'Assets/Yarn Spinner/Examples/Demo Scripts/SpriteSwitcher.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/UnityScript.dll'

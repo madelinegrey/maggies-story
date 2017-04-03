@@ -76,7 +76,8 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
-'Assets/ClickSound.cs'
+'Assets/AutoType.cs'
+'Assets/Scripts/ClickSound.cs'
 'Assets/Scripts/ST_PuzzleDisplay.cs'
 'Assets/Scripts/ST_PuzzleTile.cs'
 'Assets/Scripts/toNextStoryPage.cs'
