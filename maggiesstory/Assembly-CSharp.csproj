@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{206A2F74-DEA3-551B-F273-A99E575A4257}</ProjectGuid>
+    <ProjectGuid>{D973CD40-90A5-FC82-B6AA-A0BDF554A63F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ClickSound.cs" />
      <Compile Include="Assets\Scripts\ST_PuzzleDisplay.cs" />
      <Compile Include="Assets\Scripts\ST_PuzzleTile.cs" />
      <Compile Include="Assets\Scripts\toNextStoryPage.cs" />
