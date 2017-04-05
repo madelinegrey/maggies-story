@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D95217CE-AF48-D4A3-D96F-E5BF0E011AE8}") = "CreepyCamel_0", "Assembly-CSharp.csproj", "{BB455B02-0860-3295-AEC9-87FD2C9E94C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB455B02-0860-3295-AEC9-87FD2C9E94C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB455B02-0860-3295-AEC9-87FD2C9E94C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB455B02-0860-3295-AEC9-87FD2C9E94C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB455B02-0860-3295-AEC9-87FD2C9E94C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
