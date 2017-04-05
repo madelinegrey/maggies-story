@@ -4,7 +4,7 @@ using System.Collections;
 public class Wall : MonoBehaviour {
 
 	//player will earn score
-	public Player _player;
+	//public Player _player;
 	// Use this for initialization
 	void Start () {
 	
@@ -20,7 +20,7 @@ public class Wall : MonoBehaviour {
 
 		Destroy (target.gameObject);
 
-		_player.Lives();
+		//_player.Lives();
 
 	}
 }
